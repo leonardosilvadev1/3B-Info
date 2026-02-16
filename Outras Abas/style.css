@@ -28,15 +28,15 @@
 
 body {
     font-family: 'Neue';
-    background-color: rgb(253, 248, 225);
-    color: #2c0657;
+    background-color: rgb(255, 251, 235);
+    color: #070163;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(28, 0, 85);
+    background-color: #070163;
     padding: 0 20px;
     height: 100px;
 }
@@ -67,11 +67,11 @@ nav {
     border-radius: 10px;
     color: white;
     margin-right: 10px;
-    background-color: #380177;
+    background-color: #0f077e;
 }
 
 .nav-links a:hover {
-    background-color: #5d16ad;
+    background-color: #2f2986;
 }
 
 .hamburger {
@@ -102,7 +102,7 @@ img {
 }
 
 .perfil {
-    background-color: #2c0657;
+    background-color: #070163;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -119,8 +119,8 @@ img {
 }
 
 footer {
-    color: #fff2c8;
-    background-color: rgb(28, 0, 85);
+    color: rgb(255, 251, 235);
+    background-color: #070163;
     text-align: center;
     padding: 10px 0;
     margin-top: 4%;
@@ -133,13 +133,13 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #2c0657;
+    background-color: #070163;
     height: 320px;
     width: 320px;
     border-radius: 10px;
 }
 .premiacoes{
-    background-color: #2c0657;
+    background-color: #070163;
     justify-content: center;
     align-items: center;
     height: 470px;

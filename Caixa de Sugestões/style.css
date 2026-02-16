@@ -5,7 +5,7 @@
 }
 body {
     font-family: 'Arial';
-    background-color: #410388;
+    background-color: #070163;
     color: #ffffff;
 }
 .main{
@@ -23,7 +23,7 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(255, 248, 216);
+    background-color: rgb(255, 251, 235);
     border-radius: 20px;
     border: none;
 }
@@ -35,7 +35,7 @@ form{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: #2c0657;
+    color: #070163;
     height: 400px;
     width: 500px;
 }
@@ -46,7 +46,7 @@ textarea{
     height: 150px;
     width: 350px;
     border-radius: 10px;
-    border: 2px solid #2c0657;
+    border: 2px solid #070163;
     font-size: 20px;
 }
 button{
@@ -54,7 +54,7 @@ button{
     width: 350px;
     border-radius: 20px;
     border: none;
-    background-color: #2c0657;
+    background-color: #070163;
     color: rgb(255, 248, 216);
     font-size: 27px;
 }
@@ -62,16 +62,13 @@ button:hover{
     cursor: pointer;
 }
 footer {
-    color: #fff2c8;
-    background-color: rgb(28, 0, 85);
+    color: rgb(255, 251, 235);
+    background-color: #050047;
     text-align: center;
     padding: 10px;
     margin-top: 6.3%;
 }
 
-@media (max-width: 890px){
-    
-}
 @media (max-width: 768px){
     .texto{
         width: 540px;
